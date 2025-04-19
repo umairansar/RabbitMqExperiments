@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "k8AN70nzSO4V9BfuOuD+UtHtDfCDrhRd3PxMYiP4uLk=",
+  "Source": "RabbitMqConsumerDemo",
+  "BasePath": "_content/RabbitMqConsumerDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

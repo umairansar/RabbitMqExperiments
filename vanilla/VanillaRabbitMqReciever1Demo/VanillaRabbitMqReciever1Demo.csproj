@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="RabbitMQ.Client" Version="7.1.2" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Update="img.png">
+        <DependentUpon>Readme.md</DependentUpon>
+      </None>
+      <None Update="img_1.png">
+        <DependentUpon>Readme.md</DependentUpon>
+      </None>
+      <None Update="img_2.png">
+        <DependentUpon>Readme.md</DependentUpon>
+      </None>
+      <None Update="img_3.png">
+        <DependentUpon>Readme.md</DependentUpon>
+      </None>
+    </ItemGroup>
+
+</Project>
